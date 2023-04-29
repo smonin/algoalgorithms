@@ -1,6 +1,7 @@
 my_arr = [3, 1, 4, 10, 7, 25, 9, 28, 111, 87, 239]
 print("Unsorted array:")
 print(my_arr)
+
 my_arr_len = len(my_arr)
 
 count = 0
